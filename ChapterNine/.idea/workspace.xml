@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a9a1f1d-1369-4f0a-92f8-80a64f2d7aba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fGp5vq3OHobTv3SpSoRwkeQBHr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.employeeWithComposition" />
+      <recent name="com.shapes" />
+      <recent name="com.kingdom" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EmployeeTest.testEmployee">
+    <configuration name="AnimalTest.createHierarchy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChapterNine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shapes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kingdom" />
+      <option name="MAIN_CLASS_NAME" value="com.kingdom.AnimalTest" />
+      <option name="METHOD_NAME" value="createHierarchy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalTest.hierarchyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChapterNine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shapes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kingdom" />
+      <option name="MAIN_CLASS_NAME" value="com.kingdom.AnimalTest" />
+      <option name="METHOD_NAME" value="hierarchyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.testEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChapterNine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.employeeWithComposition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.employeeWithComposition" />
+      <option name="MAIN_CLASS_NAME" value="com.employeeWithComposition.EmployeeTest" />
+      <option name="METHOD_NAME" value="testEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuadrilateralTest.calculateArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChapterNine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shapes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shapes" />
+      <option name="MAIN_CLASS_NAME" value="com.shapes.QuadrilateralTest" />
+      <option name="METHOD_NAME" value="calculateArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeTest.testEmployee" />
+        <item itemvalue="JUnit.QuadrilateralTest.calculateArea" />
+        <item itemvalue="JUnit.AnimalTest.hierarchyTest" />
+        <item itemvalue="JUnit.AnimalTest.createHierarchy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a9a1f1d-1369-4f0a-92f8-80a64f2d7aba" name="Default Changelist" comment="" />
+      <created>1595854103536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595854103536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1596365888931">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1596365888931" />
+    <state x="413" y="159" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1595856221799">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="159" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1595856221799" />
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596014381508">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1596014381508" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1596111334251">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1596111334251" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1596218823176">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1596218823176" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1596218823176">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1596218823176" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1596218823175">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1596218823175" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1596218823176">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1596218823176" />
+    <state x="359" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1596377756546">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="359" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1596377756546" />
+    <state x="388" y="272" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595856229909">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="388" y="272" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.768@0.0.1366.768" timestamp="1595856229909" />
+    <state x="342" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596365577755">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="342" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1596365577755" />
+    <state x="447" y="60" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596026024388">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="447" y="60" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.768@0.0.1366.768" timestamp="1596026024388" />
+    <state x="65" y="0" key="new project wizard" timestamp="1596448741743">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1596448741743" />
+  </component>
+</project>
